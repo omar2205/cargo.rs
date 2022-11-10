@@ -1,0 +1,15 @@
+{
+  "name": "cargo.rs",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "sh rust.sh -y"
+  },
+  "bin": {
+    "cargo.rs": "rust.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
