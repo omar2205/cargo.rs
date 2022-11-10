@@ -1,6 +1,6 @@
 {
   "name": "cargo.rs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,11 @@
   "bin": {
     "cargo.rs": "rust.sh"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["rust"],
+  "author": "omar2205",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omar2205/cargo.rs"
+  },
+  "license": "MIT"
 }
